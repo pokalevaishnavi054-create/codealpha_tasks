@@ -23,3 +23,26 @@ A console-based Java application to manage student grades.
 ## Author
 
 Pokale Vaishnavi
+
+## Task 2: Stock Trading Platform
+
+A console-based Java application that simulates a simple stock trading system.
+
+### Features
+- View available stocks and prices.
+- Buy and sell stocks.
+- View portfolio and total portfolio value.
+- Check account balance.
+- View transaction history.
+
+### Technologies Used
+- Java
+- Object-Oriented Programming (OOP)
+- Collections Framework
+
+### How to Run
+1. Open the project in IntelliJ IDEA.
+2. Run `Main.java`.
+3. Select an option from the menu.
+
+This project was developed as part of the CodeAlpha Java Internship – October 2026 Batch.
